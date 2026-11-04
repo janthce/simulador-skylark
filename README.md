@@ -75,12 +75,12 @@ Este es un **proyecto independiente** de carácter académico. No está afiliado
 
 ## Autor
 
-**Lucas Espíndola Molina**
-Estudiante de Ingeniería en Construcción, Universidad de Valparaíso, Chile.
+**Janth Celedón Miranda**
+Tesista de Ingeniería en Construcción, Universidad de Valparaíso, Chile.
 
 ## Cómo citar
 
-> Espíndola Molina, L. (2026). *Simulador Skylark: herramienta de estimación de fabricación digital para el sistema WikiHouse* (versión de prueba) [Software]. GitHub. https://github.com/TU-USUARIO/simulador-skylark
+> Celedón Miranda, J. (2026). *Simulador Skylark: herramienta de estimación de fabricación digital para el sistema WikiHouse* (versión de prueba) [Software]. GitHub. https://github.com/TU-USUARIO/simulador-skylark
 
 ## Historial de versiones
 
