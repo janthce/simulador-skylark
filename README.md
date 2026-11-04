@@ -4,7 +4,7 @@
 >
 > Lee este documento antes de utilizar el simulador.
 
-**Abrir el simulador:** https://TU-USUARIO.github.io/simulador-skylark/
+**Abrir el simulador:** (https://janthce.github.io/simulador-skylark/)
 
 ---
 
